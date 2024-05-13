@@ -1,5 +1,5 @@
 - Hi, I’m @MushroomWilliam
-- I’m interested in coding and game devlopment
+- I’m interested in web development
 - I’m currently doing code for fun
-- I’m hoping to do it as a profession one day
-- Reach me at @MushroomAfton on twitter!
+- I don't plan to code it as a profession, only as a hobby
+- Reach me at @manybitchhaver on twitter!
